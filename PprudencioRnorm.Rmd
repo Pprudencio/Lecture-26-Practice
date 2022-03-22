@@ -1,0 +1,21 @@
+---
+title: "Lecture 26 Practice"
+author: "Pedro Prudencio"
+date: "3/22/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+Y <- rnorm(100)
+hist(Y)
+```
+
+\newpage
+
+![Carl Friedrich Gauss was a German mathematician who is considered the greatest mathematician in modern history.](gauss.jpg)
+
