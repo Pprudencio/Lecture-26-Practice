@@ -1,3 +1,3 @@
-X <- rexp(1000)
+Y <- rnorm(100)
 
-hist(X)
+hist(Y)
